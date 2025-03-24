@@ -5,7 +5,9 @@ This repository showcases a small storyboarding project created using Canva. Sto
 &nbsp;
 
 **Uses of This Storyboard**
+
 -HR professionals can refer to it for conducting exit interviews and using clearance checklists efficiently.
+
 -Serves as an internal HR training tool, aiding new HR employees in understanding the resignation process.
 
 &nbsp;
