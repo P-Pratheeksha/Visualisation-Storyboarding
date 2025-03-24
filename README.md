@@ -14,4 +14,4 @@ This repository showcases a small storyboarding project created using Canva. Sto
 
 **Tools used**
 
-Used for creating the storyboard with visual elements and structured layouts.
+Canva is used for creating the storyboard with visual elements and structured layouts.
